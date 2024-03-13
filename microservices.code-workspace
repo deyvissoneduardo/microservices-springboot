@@ -3,7 +3,13 @@
 		{
 			"name": "discorery",
 			"path": "discorery"
+		},
+		{
+			"name": "ms-gateway",
+			"path": "ms-gateway"
 		}
 	],
-	"settings": {}
+	"settings": {
+		"java.configuration.updateBuildConfiguration": "interactive"
+	}
 }
